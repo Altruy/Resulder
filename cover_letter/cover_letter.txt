@@ -1,0 +1,23 @@
+Subject: Application for AI Engineer Position
+
+Dear Hiring Team,
+
+I hope this message finds you well. I am writing to express my interest in the AI Engineer position at your esteemed company, as advertised. With a robust educational background in Computer Science and substantial hands-on experience as a Machine Learning Engineer and Data Scientist, I am excited about the opportunity to contribute to your dynamic team at the forefront of artificial intelligence innovation.
+
+In my current role at Xavor Corporation, I have been integral in the development of cutting-edge AI solutions aimed at enhancing healthcare outcomes. I led the design and implementation of the Navigait Fall Risk Assessment and Rehabilitation Station, a computer vision-based product that significantly improves patient safety. My experience extends to collaborating with international clients to deliver tailored AI solutions, including generative AI applications and natural language processing models. My role involved architecting scalable ETL pipelines and deploying models in Azure ML Studio, thereby enhancing deployment efficiency and model performance.
+
+Previously, as a Machine Learning Engineer at Xisys Consulting, I advanced the capabilities of multi-drone surveillance systems and developed real-time human detection solutions using computer vision techniques. These experiences have honed my skills in algorithm development, model training, and performance optimization—aligning perfectly with the core responsibilities outlined in the job description.
+
+I hold a Bachelor of Science in Computer Science from The Lahore University of Management Sciences (LUMS), where I achieved a CGPA of 3.47. My strong analytical skills, strategic planning, and problem-solving abilities enable me to tackle complex challenges effectively. Furthermore, my commitment to staying updated on emerging technologies ensures that I am well-equipped to contribute to your team.
+
+In addition to my technical expertise, I am adept at collaborating with cross-functional teams and communicating complex technical concepts to diverse stakeholders. My goal is to drive meaningful changes through innovative AI solutions, and I believe that my background makes me a strong fit for your team.
+
+Thank you for considering my application. I am eager to bring my skills and experience to your innovative company and contribute to the transformative AI solutions you develop. I look forward to the opportunity to discuss how I can be a valuable asset to your team.
+
+Warm regards,
+
+Turyal Neeshat  
+Pakistan  
++92 300 2212940  
+tneeshat@outlook.com  
+[LinkedIn Profile](https://linkedin.com/in/turyal-neeshat)
